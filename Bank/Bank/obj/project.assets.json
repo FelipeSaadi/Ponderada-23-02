@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada\\Bank\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada\\Bank\\Bank\\Bank.csproj",
+      "projectPath": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\Bank\\Bank.csproj",
       "packagesPath": "C:\\Users\\saadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada\\Bank\\Bank\\obj\\",
+      "outputPath": "C:\\Dev\\projects\\Inteli\\m9\\Ponderada-23-02\\Bank\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\saadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
